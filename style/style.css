@@ -4,13 +4,13 @@ body {
 
 @font-face {
     font-family: OpenSans-Bold;
-    src: url(fonts/fonts/OpenSans-Bold.ttf) 
+    src: url(https://jhonkikkoman.github.io/Piskun-ivan.github.io/fonts/fonts/OpenSans-Bold.ttf) 
 
 }
 
 @font-face {
     font-family: OpenSans-Regular;
-    src: url(fonts/fonts/OpenSans-Regular.ttf)
+    src: url(https://jhonkikkoman.github.io/Piskun-ivan.github.io/fonts/fonts/OpenSans-Regular.ttf)
 
 }
 
@@ -18,7 +18,7 @@ header {
     width: 1660px;
     color: white;
     text-transform: uppercase;
-    background-image: url("../images/images/rock-73.jpg");
+    background-image: url(https://jhonkikkoman.github.io/Piskun-ivan.github.io/images/images/rock-73.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -471,21 +471,21 @@ footer {
 }
 
 .icon__twitter {
-    background-image: url(images/images/icon_twitter.png);
+    background-image: url(https://jhonkikkoman.github.io/Piskun-ivan.github.io/images/images/icon_twitter.png);
     background-repeat: no-repeat;
     background-position: center center;
 
 }
 
 .icon__pinterest {
-    background-image: url(images/images/icon-pinterest.png);
+    background-image: url(https://jhonkikkoman.github.io/Piskun-ivan.github.io/images/images/icon-pinterest.png);
     background-repeat: no-repeat;
     background-position: center center;
     
 }
 
 .icon__tumblr {
-    background-image: url(images/images/icon-tumblr.png);
+    background-image: url(https://jhonkikkoman.github.io/Piskun-ivan.github.io/images/images/icon-tumblr.png);
     background-repeat: no-repeat;
     background-position: center center;
     
