@@ -4,7 +4,7 @@ body {
 
 @font-face {
     font-family: OpenSans-Bold;
-    src: url(../fonts/fonts/OpenSans-Bold.woff) 
+    src: url(../fonts/fonts/OpenSans-Bold.ttf) 
 
 }
 
@@ -18,7 +18,7 @@ header {
     width: 1660px;
     color: white;
     text-transform: uppercase;
-    background-image: url(images/images/rock-73.jpg);
+    background-image: url("images/images/rock-73.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
