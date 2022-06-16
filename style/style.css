@@ -4,13 +4,13 @@ body {
 
 @font-face {
     font-family: OpenSans-Bold;
-    src: url(fonts/fonts/OpenSans-Bold.ttf) 
+    src: url(../fonts/fonts/OpenSans-Bold.ttf) 
 
 }
 
 @font-face {
     font-family: OpenSans-Regular;
-    src: url(fonts/fonts/OpenSans-Regular.ttf)
+    src: url(../fonts/fonts/OpenSans-Regular.ttf)
 
 }
 
@@ -18,8 +18,7 @@ header {
     width: 1660px;
     color: white;
     text-transform: uppercase;
-    background-image: url(Piskun-ivan.github.io
-    /images/images/rock-73.jpg);
+    background-image: url(images/images/rock-73.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
